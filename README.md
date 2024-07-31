@@ -1,9 +1,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p align="center">
-<img width="60" height="68" alt="EverShop Logo" src="https://myshop.io/img/logo.png"/>
+<img width="60" height="68" alt="MyShop Logo" src="https://myshop.io/img/logo.png"/>
 </p>
 <p align="center">
-  <h1 align="center">EverShop</h1>
+  <h1 align="center">MyShop</h1>
 </p>
 <h4 align="center">
     <a href="https://myshop.io/docs/development/getting-started/introduction">Documentation</a> |
@@ -24,17 +24,17 @@
 </p>
 
 <p align="center">
-<img alt="EverShop" width="950" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/banner.png"/>
+<img alt="MyShop" width="950" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/banner.png"/>
 </p>
 
 ## Introduction
 
-EverShop is a GraphQL Based and React ecommerce platform with essential commerce features. Built with React, modular and fully customizable.
+MyShop is a GraphQL Based and React ecommerce platform with essential commerce features. Built with React, modular and fully customizable.
 
 ## Installation Using Docker
 
 
-You can get started with EverShop in minutes by using the Docker image. The Docker image is a great way to get started with EverShop without having to worry about installing dependencies or configuring your environment.
+You can get started with MyShop in minutes by using the Docker image. The Docker image is a great way to get started with MyShop without having to worry about installing dependencies or configuring your environment.
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/myshop/myshop/main/docker-compose.yml > docker-compose.yml
@@ -58,7 +58,7 @@ Explore our demo store.
 
 <p align="left">
   <a href="https://demo.myshop.io/admin" target="_blank">
-    <img alt="myshop-backend-demo" height="35" alt="EverShop Admin Demo" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/myshop-admin-demo.png"/>
+    <img alt="myshop-backend-demo" height="35" alt="MyShop Admin Demo" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/myshop-admin-demo.png"/>
   </a>
 </p>
 <b>Demo user:</b>
@@ -68,7 +68,7 @@ Password: 123456
 
 <p align="left">
   <a href="https://demo.myshop.io/" target="_blank">
-    <img alt="myshop-store-demo" height="35" alt="EverShop Store Demo" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/myshop-store-front-demo.png"/>
+    <img alt="myshop-store-demo" height="35" alt="MyShop Store Demo" src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/myshop-store-front-demo.png"/>
   </a>
 </p>
 
@@ -77,18 +77,18 @@ Password: 123456
 If you like my work, feel free to:
 
 - ⭐ this repository. It helps.
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about EverShop. Thank you!
+- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about MyShop. Thank you!
 
 [tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmyshop%2Fmyshop&text=Awesome%20React%20Ecommerce%20Project&hashtags=react,ecommerce,expressjs,graphql
-### Ask a question about EverShop
+### Ask a question about MyShop
 
-You can ask questions, and participate in discussions about EverShop-related topics in the EverShop Discord channel.
+You can ask questions, and participate in discussions about MyShop-related topics in the MyShop Discord channel.
 
 <a href="https://discord.gg/GSzt7dt7RM"><img src="https://raw.githubusercontent.com/myshop/myshop/dev/.github/images/discord_banner_github.svg" /></a>
 
 ### Create a bug report
 
-If you see an error message or run into an issue, please [create bug report](https://github.com/myshop/myshop/issues/new). This effort is valued and it will help all EverShop users.
+If you see an error message or run into an issue, please [create bug report](https://github.com/myshop/myshop/issues/new). This effort is valued and it will help all MyShop users.
 
 
 ### Submit a feature request
@@ -100,6 +100,6 @@ If you add some more information such as your thoughts and vision about the feat
 
 ## Contributing
 
-EverShop is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the EverShop community.
+MyShop is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the MyShop community.
 
 
